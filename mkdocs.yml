@@ -1,8 +1,8 @@
 site_name: ECCTY Seminar - Dallas
 nav:
   - Home: index.md
-  - Hands-on Labs:
-      - Lab 1 - Application Modernization: LAB_application_modernization.md
-      - Lab 2 - WebSphere Automation: LAB_websphere_automation.md
-theme: readthedocs
+  - Day 1 Labs: day1.md
+  - Accessing lab environments Day 1: lab-env.md
+  - Day 2 Labs: day2.md  
+theme: readthedocs  
 extra_css: ["extra.css"]
