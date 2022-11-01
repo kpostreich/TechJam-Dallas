@@ -12,7 +12,7 @@ Dallas, Texas
   
  
   
- [Survey - Please provide your feedback!](https://www.surveygizmo.com/s3/7050751/2022-IBM-Expertise-Connect-Comes-to-You-Seminar-Herndon-VA)
+ [Survey - Please provide your feedback!](https://www.surveygizmo.com/s3/7050746/2022-IBM-Expertise-Connect-Comes-to-DTCC-Seminar-Dallas)
 
 
 **ECCTY 2022 Agenda**
