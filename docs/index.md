@@ -8,9 +8,9 @@
 Dallas, Texas
 
 
-**ECCTY Seminar Agenda**
-
-  - This is a 1 day technical workshop.  
+  [Join the webex meeting to engage in chat](https://ibm.webex.com/ibm/j.php?MTID=m1fc4cb10b073336cf311e2861bf6cbac)
+  
+ 
   
  [Survey - Please provide your feedback!](https://www.surveygizmo.com/s3/7050751/2022-IBM-Expertise-Connect-Comes-to-You-Seminar-Herndon-VA)
 
